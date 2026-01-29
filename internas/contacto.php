@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hola</title>
+    <title>CONTÁCTANOS</title>
 </head>
 <body>
-    <h1 class="titulo"> new Hello Git 3! visual version!!!!!</h1>
+    
 </body>
 </html>
